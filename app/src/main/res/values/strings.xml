@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SAFESPACE1.0</string>
+    <string name="olvid_la_contrase_a">Olvidé la contraseña</string>
+    <string name="registrate">REGISTRATE</string>
+    <string name="ayuda">Ayuda</string>
+    <string name="inici0">INICI0</string>
+    <string name="contactanos">Contactanos</string>
+    <string name="s_o_s">S.O.S</string>
+    <string name="contactanoss">CONTACTANOS</string>
+    <string name="alberto">ALBERTO</string>
+</resources>
